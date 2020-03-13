@@ -25,12 +25,12 @@ Type npm start *enter*
     ```
 
 ## User Stories
-- As a player, I can see a web page with a 3 by 3 grid board game with question marks in each square
+- As a player, I can see a web page with a 3 by 3 grid board game with question marks in each square.
 - As a player, when I click on one of the anchor icons, the box reveals a wave icon, treasure icon, or bomb icon.
 - As a player, I can click on the anchor icons and behind one of the icons is a treasure icon and an alert appears with the text “You Won!”
-- As a player, I can see a counter that shows how many guesses I have left (starting at 5)
-- As a player, I can see a “win” or “lose” message when the game is won or lost
-- As a player, I can click on a “Play Again” button to restart the game
+- As a player, I can see a counter that shows how many guesses I have left (starting at 5).
+- As a player, I can see a “win” or “lose” message when the game is won or lost.
+- As a player, I can click on a “Play Again” button to restart the game.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
